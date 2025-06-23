@@ -1,20 +1,21 @@
-![banner](/images/CreditCard-Banner.png)
+Withdrawal Dashboard 
+Balance Asset:€
+                            Deposit 
+### online banking website 
 
-### This is a simple HTML, CSS and JS project to make a fake credit card, allowing the user to change everything they want.
+## Link to [Fortbacked online banking]
 
-## Link to [DEMO](https://dnowdd.github.io/CreditCard-Image-Generator/) 
+Account owner 
 
-## Options to change:
-
-+ Your Name
++ Name 
 + Bank Name
-+ Card Numbers
-+ Expiration Date
-+ Gradient Card Color
-+ Card Flag
++ Account Number
++ Amount 
+  
+  page="center"> Request Withdrawal 
 
-<p align="center">
-    <img src="/images/Card-Examples.gif" style="width: 500px;">
+<p align="center"> 
+    
 </p>
 
 ## Technologies Used:
